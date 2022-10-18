@@ -1,6 +1,6 @@
 const categoryRouter = require('express').Router()
 const CategoryControllers = require('../controllers/category_controller')
 
-categoryRouter.post('/categoris',)
+categoryRouter.post('/categories',)
 
 module.exports = categoryRouter
